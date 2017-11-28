@@ -18,11 +18,11 @@ Start of program
 
 	Create a group of words
 
-		1. Rosebush		  2. Strawberry		3. Lemongras		4. Methanol	      5. Hexagram
-		6. Justice			7. Ballon			  8. Fierce			  9. Gateway	      10. Cicada
-		11. Janitor		  12. Loathsome 	13. Combustion	14. Heartless	    15. Tender
-		16. Gauge		    17. Fornicate		18. Liberation	19. Ascention	    20. Curfew
-		21. Honest		  22. Sobrierty		23. Henceforth	24. Benevolent    25. Sinister
+	1. Rosebush	2. Strawberry	3. Lemongras	4. Methanol	  5. Hexagram
+	6. Justice	7. Ballon	8. Fierce	9. Gateway	  10. Cicada
+	11. Janitor	12. Loathsome 	13. Combustion	14. Heartless	  15. Tender
+	16. Gauge	17. Fornicate	18. Liberation	19. Ascention	  20. Curfew
+	21. Honest	22. Sobrierty	23. Henceforth	24. Benevolent    25. Sinister
 
 			Pick a random word from the group as the secret word
 
